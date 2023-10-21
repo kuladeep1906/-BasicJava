@@ -61,8 +61,6 @@ class savingsAccount extends Account{
 }
 
 
-
-
 public class APractice {
 	public static void main(String[] args) {
 		savingsAccount mahi= new savingsAccount();
