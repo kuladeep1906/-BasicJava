@@ -2,16 +2,16 @@
 /*
 NOTE: we can extend the interface by making child class as abstract
  
-             |
- 		     |
-		     |
+             	 |
+ 		 |
+		 |
 	||||||||||
-	|		 | <-------- mobile
-	|		 |
+	|	 | <-------- mobile
+	|	 |
 	| MOBILE |
-	|		 | <-------- mplayer
-	|		 |
-	|		 |
+	|	 | <-------- mplayer
+	|	 |
+	|	 |
 	|||||||||| <--------camera
 	       
 */
