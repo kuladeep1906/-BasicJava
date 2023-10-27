@@ -5,8 +5,7 @@ package HInnerClasses;
 
  abstract class kula{
     abstract void abs();}
-    
-    
+       
    class Outer1{ 
     void anonymous() {
     	kula anon= new kula(){
@@ -15,17 +14,13 @@ package HInnerClasses;
     	anon.abs();
     //	new kula(){void abs() {System.out.println("Anonymous class");}}.abs();   // calling without reference
     	
-    	}
-    	
+    	}   	
 }
  
-
 public class CAnonymousInner {
 	
 	public static void main(String[] args) {
 		Outer1 k= new Outer1();
 		k.anonymous();
-	}
-	
-
+	}	
 }
