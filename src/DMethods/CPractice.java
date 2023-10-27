@@ -30,7 +30,7 @@ public class CPractice {
 //----------------------------------- ********************* -------------------------------------------
 // Finding GCD
 
-/*
+
 
 package DMethods;
 
@@ -62,17 +62,18 @@ public class CPractice {
 		return n;
 	}
 	public static void main(String[] args) {
-		int a=9,b=19;
+		int a=30,b=19;
 		System.out.println("GCD:" + gcd(a,b));
 	}
 
 }
 
-*/
+
 
 //----------------------------------- ********************* -------------------------------------------
 //Finding max element in an array
 
+/*
 package DMethods;
 
 public class CPractice {
@@ -95,4 +96,4 @@ public class CPractice {
 }
 
 
-
+*/
